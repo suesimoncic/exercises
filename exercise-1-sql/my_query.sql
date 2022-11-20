@@ -14,8 +14,6 @@ select distinct dp.dir_uid as username, de.mail as email,
                 else 'Faculty/Staff'
               end
             when dp.primaryaffiliation = 'Officer/Professional' then 'Faculty/Staff'
-            when dp.primaryaffiliation = 'Affiliate' and daf.edupersonaffiliation = 'Affiliate' and daf.description = 'Student Employee' then 'Student'
-            when dp.primaryaffiliation = 'Affiliate' and daf.edupersonaffiliation = 'Affiliate' and daf.description = 'Continuing Ed Non-Credit Student' then 'Student'
             when dp.primaryaffiliation = 'Member' and daf.edupersonaffiliation = 'Member' and daf.description = 'Faculty' then 'Faculty/Staff'
             else 'Student'
         end
