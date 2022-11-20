@@ -1,0 +1,97 @@
+term_id,student_id,enrollment_id,course_title,class_id,grade,first_name,last_name,credits_earned,date_of_birth,student_employee,gpa,major,age,course_subject,course_number,course_section
+2221,100924,33580145,General Biology 1,EBIO-1-1210-11,75.88,Munmro,Shuxsmith,109,2002-08-04,0,2.63,Classical Antiquity,20,EBIO,1210,11
+2221,100924,88796458,General Chemistry 1,CHEM-1-1113-22,78.97,Munmro,Shuxsmith,109,2002-08-04,0,2.63,Classical Antiquity,20,CHEM,1113,22
+2221,111967,86175930,General Physics 1,PHYS-1-1110-16,87.45,Whitby,Cattlow,142,2003-12-24,1,2.88,Engineering - Undetermined,18,PHYS,1110,16
+2221,114604,62616427,General Biology 1,EBIO-1-1210-10,92.78,Tabor,Pfleger,134,1999-01-24,1,4.0,Composition,23,EBIO,1210,10
+2221,131285,23819971,General Physics 1,PHYS-1-1110-15,52.25,Carleton,Abendroth,140,2002-04-28,1,4.0,Broadcast Production,20,PHYS,1110,15
+2221,150535,94937972,General Physics 1,PHYS-1-1110-15,85.22,Lilias,Bullas,131,2001-12-19,0,4.0,Latin American Studies,20,PHYS,1110,15
+2221,155867,50094255,General Biology 1,EBIO-1-1210-10,89.23,Germain,Southers,124,1999-10-27,0,4.0,Computer Science,23,EBIO,1210,10
+2221,195880,64402218,General Biology 1,EBIO-1-1210-10,79.43,Kavi,Choudhary,135,2004-03-26,0,3.37,Journalism - Open Option,18,EBIO,1210,10
+2221,195880,76295640,General Chemistry 1,CHEM-1-1113-21,84.99,Kavi,Choudhary,135,2004-03-26,0,3.37,Journalism - Open Option,18,CHEM,1113,21
+2221,197853,52405021,General Biology 1,EBIO-1-1210-10,82.09,Odelle,Meni,136,1999-06-14,0,4.0,English,23,EBIO,1210,10
+2221,224980,49590198,General Biology 1,EBIO-1-1210-10,81.44,Averil,Stapleton,119,2001-06-02,1,3.47,Environmental Prod of Design,21,EBIO,1210,10
+2221,224980,45056488,General Chemistry 1,CHEM-1-1113-21,87.24,Averil,Stapleton,119,2001-06-02,1,3.47,Environmental Prod of Design,21,CHEM,1113,21
+2221,238606,22333544,General Chemistry 1,CHEM-1-1113-21,73.27,Sholom,Kinman,102,2000-09-15,0,4.0,Leadership/CommunityEngagement,22,CHEM,1113,21
+2221,247264,26212755,General Biology 2,EBIO-1-1220-3,69.53,Shannon,Storks,107,1999-02-22,0,3.98,Pre-Business,23,EBIO,1220,3
+2221,262173,13328422,General Biology 1,EBIO-1-1210-11,100.0,Jania,Jowett,103,2003-07-18,0,3.13,Architectural Engineering,19,EBIO,1210,11
+2221,262173,70384313,General Chemistry 1,CHEM-1-1113-21,78.38,Jania,Jowett,103,2003-07-18,0,3.13,Architectural Engineering,19,CHEM,1113,21
+2221,265354,13707188,General Chemistry 1,CHEM-1-1113-21,91.73,Dorotea,Macak,108,2003-10-18,0,2.77,Statistics and Data Science,19,CHEM,1113,21
+2221,265354,91545502,General Physics 1,PHYS-1-1110-15,94.56,Dorotea,Macak,108,2003-10-18,0,2.77,Statistics and Data Science,19,PHYS,1110,15
+2221,265506,94694382,General Biology 1,EBIO-1-1210-11,87.44,Dyanne,Grestie,111,1998-02-17,0,4.0,Environmental Studies,24,EBIO,1210,11
+2221,265506,30826352,General Physics 1,PHYS-1-1110-15,71.86,Dyanne,Grestie,111,1998-02-17,0,4.0,Environmental Studies,24,PHYS,1110,15
+2221,265877,87044258,General Physics 1,PHYS-1-1110-16,89.79,Deborah,MacRory,135,1999-12-24,0,3.62,Real Estate,22,PHYS,1110,16
+2221,267871,19086078,General Physics 1,PHYS-1-1110-16,84.87,Seamus,MacAlpin,94,2002-01-13,0,2.07,Music Education,20,PHYS,1110,16
+2221,281850,58666432,General Biology 2,EBIO-1-1220-1,62.95,Shelia,Seldner,141,2003-09-02,0,4.0,Linguistics,19,EBIO,1220,1
+2221,281850,58666432,General Biology 2,EBIO-1-1220-1,62.95,Shelia,Seldner,141,2003-09-02,0,4.0,French,19,EBIO,1220,1
+2221,295972,79883934,General Biology 2,EBIO-1-1220-3,60.91,Atlanta,Fretter,138,2000-05-05,0,2.61,Music & Business,22,EBIO,1220,3
+2221,306649,63314913,General Biology 1,EBIO-1-1210-11,68.88,Meaghan,Lush,95,2002-08-14,1,2.77,Comm Disorders & Speech Sci,20,EBIO,1210,11
+2221,311192,69066523,General Biology 1,EBIO-1-1210-11,71.45,Bibiana,Espino,134,2000-04-15,0,2.72,Journalism - Undetermined,22,EBIO,1210,11
+2221,315688,39080615,General Biology 1,EBIO-1-1210-11,82.43,David,Korlat,134,2002-06-23,0,2.29,Russian Studies,20,EBIO,1210,11
+2221,365036,68756732,General Biology 1,EBIO-1-1210-11,83.17,Pansy,Loveitt,142,2002-08-24,0,3.16,Cinema Stds/Moving Image Arts,20,EBIO,1210,11
+2221,365036,34809253,General Physics 1,PHYS-1-1110-16,83.16,Pansy,Loveitt,142,2002-08-24,0,3.16,Cinema Stds/Moving Image Arts,20,PHYS,1110,16
+2221,377983,35777027,General Biology 1,EBIO-1-1210-11,94.3,Hildagarde,Thebeau,101,2004-02-21,0,3.65,Systems,18,EBIO,1210,11
+2221,384628,77033020,General Biology 1,EBIO-1-1210-10,91.43,Michail,Enzley,112,2001-03-14,0,3.78,Neuroscience,21,EBIO,1210,10
+2221,384628,77033020,General Biology 1,EBIO-1-1210-10,91.43,Michail,Enzley,112,2001-03-14,0,3.78,Biology,21,EBIO,1210,10
+2221,384628,62637135,General Chemistry 1,CHEM-1-1113-21,72.66,Michail,Enzley,112,2001-03-14,0,3.78,Neuroscience,21,CHEM,1113,21
+2221,384628,62637135,General Chemistry 1,CHEM-1-1113-21,72.66,Michail,Enzley,112,2001-03-14,0,3.78,Biology,21,CHEM,1113,21
+2221,401591,65164548,General Biology 1,EBIO-1-1210-11,77.12,Bobbye,Cohen,139,2004-01-04,0,3.86,News - Editorial,18,EBIO,1210,11
+2221,401591,23304827,General Chemistry 1,CHEM-1-1113-21,89.98,Bobbye,Cohen,139,2004-01-04,0,3.86,News - Editorial,18,CHEM,1113,21
+2221,416077,71987402,General Chemistry 1,CHEM-1-1113-21,89.57,Anant,Rao,128,2000-11-10,0,3.81,Business - Undetermined,22,CHEM,1113,21
+2221,437005,30725669,General Biology 2,EBIO-1-1220-1,68.52,Olwen,Beveredge,135,1999-09-14,0,2.15,Religious Studies,23,EBIO,1220,1
+2221,450147,53931402,General Biology 1,EBIO-1-1210-11,81.21,Ben,Valenta,142,2002-01-13,0,3.71,American Studies,20,EBIO,1210,11
+2221,452889,29494848,General Biology 1,EBIO-1-1210-11,86.8,Armando,Rainer,138,2000-12-30,0,3.89,Humanities Concurr Deg,21,EBIO,1210,11
+2221,473651,92918515,General Biology 1,EBIO-1-1210-11,74.25,Umeko,Kenealy,124,2003-07-01,0,4.0,Office Administration,19,EBIO,1210,11
+2221,504838,40987078,General Biology 2,EBIO-1-1220-3,55.29,Drusi,Handover,122,1999-02-06,1,3.62,Aerospace Engineering Sciences,23,EBIO,1220,3
+2221,507062,41067587,General Biology 1,EBIO-1-1210-11,82.95,Juditha,Callington,131,2002-03-28,0,1.28,Elec Engr & Computer Sci,20,EBIO,1210,11
+2221,508073,13572167,General Biology 2,EBIO-1-1220-3,94.16,Karil,Birkmyr,126,2002-02-27,0,2.9,"Information Systems, Conc Degr",20,EBIO,1220,3
+2221,510845,62686575,General Biology 1,EBIO-1-1210-10,75.53,Prakash,Kuroda,110,2004-05-28,1,4.0,Performance,18,EBIO,1210,10
+2221,514433,54240180,General Physics 1,PHYS-1-1110-15,89.04,Rahel,Edge,134,2002-01-22,0,2.94,Business - Undetermined,20,PHYS,1110,15
+2221,521541,31208729,General Chemistry 1,CHEM-1-1113-22,77.67,Ellerey,Quarry,132,2003-01-13,0,3.37,Sociology,19,CHEM,1113,22
+2221,530502,54458732,General Chemistry 1,CHEM-1-1113-21,79.61,Sonja,Penylton,107,2004-02-21,0,2.01,Classical Antiquity,18,CHEM,1113,21
+2221,540842,83779201,General Chemistry 1,CHEM-1-1113-22,93.85,Rubina,McCurlye,137,2001-07-17,1,2.05,Journalism - Undetermined,21,CHEM,1113,22
+2221,545384,17782294,General Chemistry 1,CHEM-1-1113-22,75.02,Robers,Sandwich,120,2000-05-16,0,3.54,Personnel-Human Resources Mgt,22,CHEM,1113,22
+2221,546841,78539481,General Biology 1,EBIO-1-1210-10,65.29,Quyen,Wattana,97,1999-09-16,1,4.0,Economics,23,EBIO,1210,10
+2221,602747,14297994,General Physics 1,PHYS-1-1110-16,95.07,Luci,Golton,132,1998-07-10,1,2.96,Integrative Physiology-Con Deg,24,PHYS,1110,16
+2221,610331,31208580,General Biology 2,EBIO-1-1220-3,65.14,Portie,Le Grys,117,2000-09-01,1,3.75,Organization Management,22,EBIO,1220,3
+2221,615961,72136995,General Chemistry 1,CHEM-1-1113-21,85.79,Candide,Innett,121,2003-04-30,0,3.62,Art History,19,CHEM,1113,21
+2221,631296,65092176,General Biology 1,EBIO-1-1210-10,90.64,Mariele,Mouan,133,1998-11-30,0,2.82,Environmental Design,23,EBIO,1210,10
+2221,631296,85724743,General Chemistry 1,CHEM-1-1113-22,78.02,Mariele,Mouan,133,1998-11-30,0,2.82,Environmental Design,23,CHEM,1113,22
+2221,645664,39871129,General Physics 1,PHYS-1-1110-16,58.56,Lyell,Harsent,134,2001-10-26,1,2.08,"Economics, Concurrent Degree",21,PHYS,1110,16
+2221,667704,30830484,General Biology 1,EBIO-1-1210-11,92.69,Lolita,Abramow,110,2000-07-14,1,3.1,Minerals Land Management,22,EBIO,1210,11
+2221,672546,77990583,General Biology 1,EBIO-1-1210-11,83.61,Toma,Planks,133,1998-05-02,0,2.99,Open Option,24,EBIO,1210,11
+2221,672546,50453876,General Chemistry 1,CHEM-1-1113-21,84.05,Toma,Planks,133,1998-05-02,0,2.99,Open Option,24,CHEM,1113,21
+2221,672546,79974460,General Physics 1,PHYS-1-1110-16,92.2,Toma,Planks,133,1998-05-02,0,2.99,Open Option,24,PHYS,1110,16
+2221,708465,14699682,General Biology 1,EBIO-1-1210-11,92.18,Jerry,Hawkwood,116,2002-12-15,0,2.5,Biological Sciences-MCD,19,EBIO,1210,11
+2221,729552,44304531,General Biology 1,EBIO-1-1210-11,93.96,Cherish,Aitcheson,139,2003-12-03,0,4.0,"Economics, Concurrent Degree",18,EBIO,1210,11
+2221,738627,48227457,General Biology 2,EBIO-1-1220-1,86.76,Shaylah,Vick,142,2000-11-17,0,4.0,Integrated Design Engineering,22,EBIO,1220,1
+2221,741056,70231507,General Biology 2,EBIO-1-1220-3,79.69,Kaylil,Fozzard,116,1999-10-14,0,4.0,Piano Performance,23,EBIO,1220,3
+2221,758870,10304181,General Chemistry 1,CHEM-1-1113-21,76.62,Emmalyn,Mullen,125,2002-03-28,0,2.45,Physics for Secondary Schools,20,CHEM,1113,21
+2221,768882,99318055,General Physics 1,PHYS-1-1110-16,90.09,Glenn,Petrovic,122,2004-03-16,0,3.48,Humanities Concurr Deg,18,PHYS,1110,16
+2221,776450,19752229,General Biology 1,EBIO-1-1210-10,85.41,Dill,Clemendot,133,1999-04-28,1,4.0,Design Studies,23,EBIO,1210,10
+2221,776450,60909345,General Chemistry 1,CHEM-1-1113-21,85.43,Dill,Clemendot,133,1999-04-28,1,4.0,Design Studies,23,CHEM,1113,21
+2221,789476,67208610,General Biology 2,EBIO-1-1220-3,71.89,Carlyle,Prujean,119,1998-09-24,0,2.41,Public Relations & Business,24,EBIO,1220,3
+2221,792859,55623374,General Physics 1,PHYS-1-1110-16,88.66,Elvin,Deguara,115,2001-10-15,0,3.78,Electrical Engineering,21,PHYS,1110,16
+2221,801984,28106123,General Biology 2,EBIO-1-1220-1,90.4,Raddie,Pleat,130,2000-04-04,1,3.62,International Affairs,22,EBIO,1220,1
+2221,809492,63632222,General Biology 2,EBIO-1-1220-3,86.93,Niven,Duer,123,2003-10-09,0,3.12,Philosophy,19,EBIO,1220,3
+2221,815185,40079916,General Biology 1,EBIO-1-1210-11,62.5,Orin,Canton,95,2001-01-16,0,3.96,Jewish Studies,21,EBIO,1210,11
+2221,821625,98593765,General Biology 1,EBIO-1-1210-10,90.18,Ellswerth,Bromidge,117,2002-10-24,0,4.0,Architectural Engineering,20,EBIO,1210,10
+2221,824076,76894344,General Chemistry 1,CHEM-1-1113-22,80.91,Lorelle,Coulman,133,2003-11-03,0,2.48,Architecture,19,CHEM,1113,22
+2221,826757,27886473,General Biology 2,EBIO-1-1220-3,84.0,Xena,Asquith,124,1999-03-31,0,4.0,Chem & Biol Engr Concur Deg,23,EBIO,1220,3
+2221,827840,84948950,General Chemistry 1,CHEM-1-1113-22,81.21,Rhodia,Flores,120,1998-02-24,0,4.0,Media Studies,24,CHEM,1113,22
+2221,836340,16242308,General Physics 1,PHYS-1-1110-16,83.71,Kelcie,Poser,129,2001-12-12,0,2.63,Business - Open Option,20,PHYS,1110,16
+2221,844991,27706585,General Biology 1,EBIO-1-1210-11,85.16,Midge,Glover,132,2001-04-01,0,2.68,Religious Studies Concurr Deg,21,EBIO,1210,11
+2221,848689,66588206,General Physics 1,PHYS-1-1110-15,93.32,Ferne,Kirckman,99,2000-01-30,0,3.23,Music - Undetermined,22,PHYS,1110,15
+2221,852337,46755863,General Chemistry 1,CHEM-1-1113-22,75.13,Cacilia,Pates,115,2003-07-21,1,3.6,Philosophy,19,CHEM,1113,22
+2221,857882,46113725,General Chemistry 1,CHEM-1-1113-21,64.55,Cordell,Bolger,110,2001-09-14,0,2.01,Computer Science,21,CHEM,1113,21
+2221,860087,74679770,General Chemistry 1,CHEM-1-1113-21,76.04,Truda,Elders,114,2001-01-22,0,3.11,Fine Arts - Studio Arts,21,CHEM,1113,21
+2221,877525,50420571,General Biology 2,EBIO-1-1220-1,84.21,Portia,McCaughey,111,2003-12-13,0,2.35,"Information Systems, Conc Degr",18,EBIO,1220,1
+2221,895485,32521071,General Biology 1,EBIO-1-1210-10,94.82,Gert,Jepperson,129,1999-03-18,0,2.58,Business Analytics,23,EBIO,1210,10
+2221,896386,59572410,General Biology 1,EBIO-1-1210-10,92.95,Bernie,Hardaway,113,1998-10-17,0,3.56,"Electrical Engr, Concur Degree",24,EBIO,1210,10
+2221,909777,96336287,General Biology 1,EBIO-1-1210-11,88.29,Cathlene,Buntin,133,2000-04-02,0,3.52,Physics,22,EBIO,1210,11
+2221,948790,44936243,General Biology 1,EBIO-1-1210-10,83.86,Madonna,Butter,120,2000-03-30,0,3.35,Engineering Phys & Business,22,EBIO,1210,10
+2221,953041,13392571,General Biology 1,EBIO-1-1210-11,81.66,Howie,Stallard,106,1999-03-26,1,2.77,Computer Science,23,EBIO,1210,11
+2221,961655,45381591,General Physics 1,PHYS-1-1110-16,82.21,Mikaela,Dany,123,2004-01-31,0,3.57,Theatre,18,PHYS,1110,16
+2221,977538,87624981,General Chemistry 1,CHEM-1-1113-21,83.68,Arleta,Gaddie,137,2002-12-24,1,4.0,Theatre,19,CHEM,1113,21
+2221,983922,44707743,General Chemistry 1,CHEM-1-1113-22,79.36,Demetria,Maier,97,1998-01-18,0,2.72,Computer Science Applications,24,CHEM,1113,22
+2221,985831,68145810,General Biology 1,EBIO-1-1210-11,85.2,Monah,Pepye,95,1999-01-02,0,4.0,Design Studies,23,EBIO,1210,11
+2221,999803,87851759,General Biology 2,EBIO-1-1220-1,78.52,Ravid,Hewlings,114,1998-03-12,0,2.79,Composition,24,EBIO,1220,1
