@@ -16,7 +16,8 @@ class MergeFiles:
             self.df = pd.read_csv(self.left_file)
             self.df.set_index(["term_id","student_id"], inplace = True)
 
-            # I began by keeping these methods generalized, but it's
+            # I began by keeping these methods generalized, but the overhead to keep it generalized is
+            # of questionable value.
             right_df = pd.read_csv(self.right_file, parse_dates=[5], infer_datetime_format=True)
             right_df.set_index(["term_id", "student_id"], inplace=True)
 
